@@ -1,0 +1,17 @@
+{
+    "channels": {
+        "T1": "Kanal 1",
+        "T2": "Kanal 2",
+        "T3": "Kanal 3",
+        "T4": "Kanal 4"
+    },
+    "settings": {
+        "cycles": 60,
+        "prefix": "messung",
+        "interval": 1.0,
+        "language": "de",
+        "save_path": "D:\\Python\\K204-UI\\dist",
+        "suffix_type": "Zeitstempel",
+        "last_port": "COM13"
+    }
+}

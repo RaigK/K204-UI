@@ -1,0 +1,17 @@
+{
+    "channels": {
+        "T1": "Kanal Ost",
+        "T2": "Kanal West",
+        "T3": "Kanal 3",
+        "T4": "Kanal 4"
+    },
+    "settings": {
+        "cycles": 100,
+        "prefix": "messung",
+        "interval": 1.0,
+        "language": "en",
+        "save_path": "D:/Python/K204-UI/Data",
+        "suffix_type": "Timestamp",
+        "last_port": "COM13"
+    }
+}
